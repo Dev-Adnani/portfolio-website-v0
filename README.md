@@ -21,8 +21,6 @@ To run this website locally, you'll need to have the following installed:
 
 Once you have these installed, you can clone this repository to your local machine using the following command:
 
-## Clone 
-
 ```git clone https://github.com/Dev-Adnani/portfolio-website.git```
 
 ## Technologies Used
